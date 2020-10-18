@@ -1,0 +1,35 @@
+.Menu nav a{
+    padding: 10px;
+    text-decoration: none;
+}
+.box{
+    width: 100%;
+    height: 50px;
+    background-color: #3d9be9;
+    margin-left: auto;
+    margin-right: auto;
+}
+.quantum{
+    font: normal normal 700 25px/1.4em dinneuzeitgroteskltw01-_812426,sans-serif;
+    transition: color 0.4s ease 0s;
+    color: #18157C;
+    white-space: nowrap;
+    display: inline-block;
+}
+.box a{
+    display: inline-block;
+    padding: 0 calc(1px + 10px);
+    color: #414141;
+    font: normal normal normal 22px/1.4em 'amatic sc',cursive;
+    transition: color 0.4s ease 0s;
+    text-align: center;
+    line-height: 37px;
+    position: relative;
+    box-sizing: border-box;
+    overflow: visible;
+}
+/*Altera abaixo o tamanho da imagem logo da página inicial, que dá acesso ao link de denúncia*/
+#imagem{
+       width: 55px;
+       margin-right:25pt;
+}
