@@ -15,6 +15,4 @@
 
 ![Tela 6](https://github.com/charlesrobson/Site_Festas_Infantis/blob/master/img/tela6.JPG)
 
-![Tela 7](https://github.com/charlesrobson/Site_Festas_Infantis/blob/master/img/tela7.JPG)
-
-![Tela 8](https://github.com/charlesrobson/Site_Festas_Infantis/blob/master/img/tela8.JPG)
+![Tela 7](https://github.com/charlesrobson/Site_Festas_Infantis/blob/master/img/tela8.JPG)
